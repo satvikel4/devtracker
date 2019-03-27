@@ -1,6 +1,8 @@
 # devTracker
 *A command line app to easily and efficiently track your time spent working on projects based on the directory you are working in.*
 
+Check out this [medium](https://medium.com/@conorsouhrada/introducing-devtracker-8691cda458b4) article to learn more about the project and basic workflow/usage.
+
 
 ### Basic Set Up
 

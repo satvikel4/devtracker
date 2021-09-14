@@ -153,6 +153,7 @@ January  2, 1999 | 12:00 AM   | January  2, 1999 | 12:00 AM | 00:00:01 |
 
 
 def test_remove():
-    os.remove(path)
+    if os.path.isfile(path):
+        os.remove(path)
 
 
